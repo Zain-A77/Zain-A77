@@ -2,7 +2,7 @@
 - 👀 I’m interested in **UI/UX Design** and love turning ideas into intuitive user experiences.
 - 🌱 I’m currently diving deeper into **Python**.
 
-  ## 🔧 Tools & Technologies
+ ## 🔧 Tools & Technologies
 - 📚**Code:** Java,Python 
 - ⚡**Other:** VS Code, Notion 
 

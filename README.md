@@ -3,7 +3,7 @@
 - 🌱 I’m currently diving deeper into **Python**.
 
   ## 🔧 Tools & Technologies
-- **Code:** Java,Python 📚
-- **Other:** VS Code, Notion ⚡
+- 📚**Code:** Java,Python 
+- ⚡**Other:** VS Code, Notion 
 
 

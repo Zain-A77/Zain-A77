@@ -6,7 +6,7 @@
 - 📚**Code:** Java,Python 
 - ⚡**Other:** VS Code, Notion
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Zain-A77&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Zain-A77&theme=default)
 
 
 
